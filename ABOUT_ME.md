@@ -39,9 +39,12 @@ A Python project that:
 
 ---
 
+
 ## 🏆 Certifications
 
-![AWS Badge](https://img.shields.io/badge/AWS-Training%20Completed-orange?logo=amazonaws&logoColor=white)
+## 🏆 Certifications
+
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange?logo=amazonaws&logoColor=white)]([](https://www.credly.com/badges/fe355589-676e-49b6-9df3-6a44a2aa147a/public_url))
 
 ---
 
