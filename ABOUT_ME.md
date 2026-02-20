@@ -39,13 +39,9 @@ A Python project that:
 
 ---
 
-
 ## 🏆 Certifications
 
-## 🏆 Certifications
-
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange?logo=amazonaws&logoColor=white)]([](https://www.credly.com/badges/fe355589-676e-49b6-9df3-6a44a2aa147a/public_url))
-
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/fe355589-676e-49b6-9df3-6a44a2aa147a/public_url)
 ---
 
 ## 🔗 Connect With Me
