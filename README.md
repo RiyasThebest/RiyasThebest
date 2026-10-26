@@ -40,13 +40,16 @@ A Python project that:
 
 ---
 
-- [## 🏆 Certifications
+## 🏆 Certifications
 
-[![AWS Certified](https://img.shields.io/badge/AWS-CloudFoundation-orange?logo=credly&logoColor=white)](https://www.credly.com/badges/fe355589-676e-49b6-9df3-6a44a2aa147a/public_url)
+[![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Foundation-orange?logo=credly&logoColor=white)](https://www.credly.com/badges/fe355589-676e-49b6-9df3-6a44a2aa147a/public_url)
 
-[![AWS Certified](https://img.shields.io/badge/AWS-CloudDeveloping-blue?logo=credly&logoColor=white)](https://www.credly.com/badges/1c2606e2-fe7d-4049-9138-20409988bb00/public_url)
+[![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Developing-blue?logo=credly&logoColor=white)](https://www.credly.com/badges/1c2606e2-fe7d-4049-9138-20409988bb00/public_url)
 
-[![AWS Certified](https://img.shields.io/badge/AWS-CloudArchitecting-red?logo=credly&logoColor=white)](https://www.credly.com/badges/800043f7-f056-4f78-bf1d-342cc0ccd1c0/public_url)
+[![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Architecting-red?logo=credly&logoColor=white)](https://www.credly.com/badges/800043f7-f056-4f78-bf1d-342cc0ccd1c0/public_url)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Blue_room-blue?logo=tryhackme&logoColor=white)](https://tryhackme.com/Riyasthebest/badges/blue)
+
 
 ---
 
