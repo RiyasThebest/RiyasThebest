@@ -40,11 +40,11 @@ A Python project that:
 
 ---
 
-## 🏆 Certifications
+- [## 🏆 Certifications
 
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/fe355589-676e-49b6-9df3-6a44a2aa147a/public_url)
 
-- [View Additional Certification on Credly](https://www.credly.com/badges/1c2606e2-fe7d-4049-9138-20409988bb00/public_url)
+[![New Certification](https://img.shields.io/badge/AWS-CloudDeveloping-blue?logo=credly&logoColor=white)](https://www.credly.com/badges/1c2606e2-fe7d-4049-9138-20409988bb00/public_url)
 
 ---
 
